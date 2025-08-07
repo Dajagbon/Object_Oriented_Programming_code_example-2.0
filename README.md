@@ -1,5 +1,4 @@
-# Asg-1-Object-Oriented-Programming
-This program performs several operations related to car management and inventory tracking.
+This application performs several operations related to car management and inventory tracking.
 
 ### 1. Car Class
 The Car class represents a car with various attributes and methods for managing the car's state. The attributes include manufacturer, model, year, mileage, engine type, transmission type, drivetrain, miles per gallon (mpg), exterior and interior colors, accident history, and price.
